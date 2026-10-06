@@ -18,3 +18,9 @@ Control de cambios
 
 Registro de modificaciones correspondientes a la Pregunta 02 de la evaluacion.
 
+Gestión de ramas
+
+Rama utilizada: feature-Terrones.
+
+Se creo la clase ControlVersion\_Terrones.java para validar el desarrollo independiente.
+
