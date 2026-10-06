@@ -6,3 +6,9 @@
 
 \- Descripción: Repositorio base para la evaluación continua T2.
 
+
+
+Evidencia T2
+
+Evaluación Técnica 2 - Control de Versiones con Git y GitHub.
+
