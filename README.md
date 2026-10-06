@@ -12,3 +12,9 @@ Evidencia T2
 
 Evaluación Técnica 2 - Control de Versiones con Git y GitHub.
 
+
+
+Control de cambios
+
+Registro de modificaciones correspondientes a la Pregunta 02 de la evaluacion.
+
